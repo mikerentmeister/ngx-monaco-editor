@@ -8,6 +8,7 @@
 # dependencies
 /node_modules
 /src/ngx-monaco-editor/node_modules
+/.angular/cache
 
 # IDEs and editors
 /.idea

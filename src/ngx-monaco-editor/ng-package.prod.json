@@ -3,8 +3,5 @@
   "dest": "../../dist/ngx-monaco-editor",
   "lib": {
     "entryFile": "src/public_api.ts"
-  },
-  "whitelistedNonPeerDependencies": [
-    "tslib"
-  ]
+  }
 }
